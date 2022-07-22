@@ -58,4 +58,4 @@ Exemplo de cenário:
          Ao gerar o Pull Request, copie a url que estará no navegador e vai se parecer com isso: <code>https://github.com/seu-nome-de-usuario/projeto-scratch/pull/1</code>
       </p>
    </details>
-- **O retorno do projeto será comentado no PR**, comunicaremos nos canais de anúncio quando todos estiverem feitos. A partir dai, **vocês poderão mergear a branch de trabalho com a branch principal**.
+- **O retorno do projeto será comentado no PR**, comunicaremos nos canais de anúncio quando todos estiverem feitos. A partir dai, **vocês poderão mergear a branch de trabalho com a branch principal**
